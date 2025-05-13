@@ -1,4 +1,4 @@
 # akmeel
 This is my first Git Repository.
 <br>
-Author - AKMeel
+Author - AKMeel (Ankit K. Meel)
